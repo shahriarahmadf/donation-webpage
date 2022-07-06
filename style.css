@@ -1,3 +1,5 @@
+/* defining font sizes */ 
+
 body{
     margin: 0;
 }
@@ -47,9 +49,11 @@ footer p{
     font-size: 14px;
     color: white;
 
+/* introduction section */ 
+
 }
 .intro-part{
-    height: 700px;
+    height: 800px;
     width: 100%;
     background-image: url("./images/donation13_blurred.jpg");
     background-size: cover;
@@ -72,6 +76,9 @@ footer p{
     color: white;
     font-weight: 400;
 }
+
+/* donate today section  */ 
+
 .donate-today{
     padding-bottom: 60px;
     margin-top: 80px;
@@ -113,6 +120,9 @@ footer p{
     text-align: center;
     margin-bottom: 20px;
 }
+
+/* donate plan section  */ 
+
 .donate-plan{
     text-align: center;
     padding-top: 20px;
@@ -139,6 +149,9 @@ footer p{
 #plan-box3{
     background-color: rgba(255, 244, 214, 1);
 }
+
+/* faq section  */ 
+
 .faq{
     padding-left: 20%;
     padding-right: 20%;
@@ -146,7 +159,7 @@ footer p{
     justify-content: center;
     padding-top: 20px;
     padding-bottom: 60px;
-    background-color: rgba(255, 89, 89, 1);
+    background-color: rgba(255, 244, 214, 1);
     background-repeat: none;
 }
 .faq ul{
@@ -165,6 +178,9 @@ footer p{
     font-size: 16px;
     font-weight: 400;
 }
+
+/* get our update section  */ 
+
 .get-our-updates{
     justify-content: center;
     text-align: center;
@@ -180,7 +196,7 @@ footer p{
     background-color: rgba(255, 244, 214, 1);
 }
 .email{
-    width: 200px;
+    width: 250px;
     padding: 10px 10px;
     background-color: rgba(217, 217, 217, 1);
     border-top-left-radius: 5px;
@@ -203,6 +219,9 @@ footer p{
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
 }
+
+/* footer section  */ 
+
 footer{
     text-align: center;
     background-color: rgba(11, 13, 23, 1);
