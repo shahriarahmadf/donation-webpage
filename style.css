@@ -20,7 +20,7 @@ body{
     padding-right: 20%;
     width: 60%;
 }
-.anchor-button{
+#intro-text a{
     width: 90px;
     color: white;
     text-decoration: none;
