@@ -140,3 +140,15 @@ body{
     text-decoration: none;
     color: white;
 }
+
+footer{
+    text-align: center;
+    background-color: rgba(11, 13, 23, 1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+footer h2{
+    color: rgba(255, 89, 89, 1);
+}
